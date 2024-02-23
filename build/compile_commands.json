@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/bill/CLionProjects/untitled/build",
+  "command": "/usr/bin/clang   -g -std=gnu11 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.2.sdk -o CMakeFiles/untitled.dir/main.c.o -c /Users/bill/CLionProjects/untitled/main.c",
+  "file": "/Users/bill/CLionProjects/untitled/main.c",
+  "output": "CMakeFiles/untitled.dir/main.c.o"
+}
+]
